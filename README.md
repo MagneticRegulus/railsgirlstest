@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Originally meant to log "Ideas," The Memory App allows you to record your memories with an accompanying picture.
 
-Things you may want to cover:
+The App is currently hosting only a smattering of memories from 1 trip to the UK.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Cheers
